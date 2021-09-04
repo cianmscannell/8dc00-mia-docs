@@ -73,12 +73,12 @@ def mypca(X):
     #                     is retained in the k components
 
     X = X - np.mean(X, axis=0)
-
+    
     #------------------------------------------------------------------#
     #TODO: Calculate covariance matrix of X, find eigenvalues and eigenvectors,
     # sort them, and rotate X using the eigenvectors
     #------------------------------------------------------------------#
-
+    
     #Return fraction of variance
     fraction_variance = np.zeros((X_pca.shape[1],1))
     for i in np.arange(X_pca.shape[1]):
