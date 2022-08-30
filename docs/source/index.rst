@@ -8,7 +8,7 @@ Welcome to the Medical Image Analysis course (8DC00) !
 ======================================================
 
 | *Course website*: https://github.com/tueimage/8dc00-mia
-| *Course edition*: Fall 2022
+| *Course edition*: Fall 2021
 | *Virtual reader*: https://8dc00-mia-docs.readthedocs.io/en/latest/
 
 This course is a sequel to the second year introductory imaging course. In that course the basic principles of image analysis were covered. 
