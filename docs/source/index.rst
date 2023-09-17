@@ -11,7 +11,7 @@ Welcome to the Medical Image Analysis course (8DC00) !
 | *Virtual reader*: https://8dc00-mia-docs.readthedocs.io/en/latest/
 
 This course is a sequel to the second year introductory imaging course. In that course the basic principles of image analysis were covered. 
-In 8DC00 we will concentrate on the more advanced image analysis methods and on how they can be used to tackle clinical problems. 
+In 8DC00 we will concentrate on the more advanced image analysis methods and how they can be used to tackle clinical problems. 
 Topics covered include image registration and computer-aided diagnosis (CAD).
 
 Interactive notebooks
