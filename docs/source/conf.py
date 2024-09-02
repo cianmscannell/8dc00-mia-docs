@@ -49,6 +49,7 @@ templates_path = ["_templates"]
 epub_show_urls = "footnote"
 
 nbsphinx_allow_errors = True
+nbsphinx_execute = "never"
 
 
 # List of patterns, relative to source directory, that match files and
