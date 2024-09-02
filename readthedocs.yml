@@ -5,7 +5,7 @@
 # Required
 version: 2
 
-master_doc: 'source/index'
+master_doc = 'source/index'
 
 
 # Set the OS, Python version and other tools you might need
