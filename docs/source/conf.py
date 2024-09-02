@@ -27,6 +27,7 @@ author = "Cian Scannell"
 # -- General configuration
 
 extensions = [
+    "nbsphinx",
     "sphinx.ext.duration",
     "sphinx.ext.doctest",
     "sphinx.ext.autodoc",
